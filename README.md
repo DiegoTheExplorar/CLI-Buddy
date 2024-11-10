@@ -1,4 +1,4 @@
-# README for CLI Command Helper
+# CLI Buddy
 
 ## Overview
 This Python script is a command-line helper tool that uses a Large Language Model (LLM) via the Groq API to generate and execute shell commands based on natural language descriptions provided by the user. It incorporates safety checks to prevent potentially harmful commands from executing.
